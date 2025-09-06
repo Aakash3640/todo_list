@@ -53,3 +53,35 @@ lib/
 │ └── taskcard.dart
 └── main.dart
 ```
+
+
+
+## 🚀 Getting Started
+
+Follow these steps to set up and run the project on your local machine:
+```
+### 1️⃣ Clone the repo
+
+git clone https://github.com/Aakash3640/todo_list.git
+
+2️⃣ Install dependencies
+flutter pub get
+
+3️⃣ Run the app
+flutter run
+
+🤝 Contributing
+
+Contributions are always welcome!
+
+Fork this repository 🍴
+
+Create your feature branch 🌱
+
+Commit your changes 💡
+
+Push to the branch 🚀
+
+Open a Pull Request 🎉
+
+```
