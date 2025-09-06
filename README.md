@@ -85,3 +85,14 @@ Push to the branch 🚀
 Open a Pull Request 🎉
 
 ```
+
+
+---
+
+##  What I Learned
+
+- Managed app-wide state using Riverpod’s `StateNotifierProvider`
+- Built a clean and modular architecture
+- Implemented light/dark theme toggle
+- Managed CRUD operations with immutable updates
+
