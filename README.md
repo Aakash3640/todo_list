@@ -6,7 +6,17 @@ This project demonstrates **theme switching (light/dark)**, task CRUD operations
 ---
 
 ## 📸 Screenshots
-(Add screenshots here later)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2a638c5c-a1cd-4b81-b5f0-00460ca1db71" width="200" />
+  <img src="https://github.com/user-attachments/assets/93571231-c534-4ce8-9ee0-9bde882abf58" width="200" />
+   <img src="https://github.com/user-attachments/assets/4a276a8a-eab1-41e0-b8b7-7c7ed55441c4" width="200" />
+  <img src="https://github.com/user-attachments/assets/2d5a984f-90e7-42ad-a41b-3adbb9b319c4" width="200" />
+</p>
+
+
+
+
 
 ---
 
@@ -28,15 +38,18 @@ This project demonstrates **theme switching (light/dark)**, task CRUD operations
 ---
 
 ## 📂 Project Structure
+
+```
 lib/
 └── todo/
-├── data/ # Data models
+├── data/ # 📄 Data models
 │ └── item.dart
-├── provider/ # Riverpod providers & state notifiers
+├── provider/ # 🛠 Riverpod providers & state notifiers
 │ └── itemProvider.dart
 ├── presentation/
-│ ├── screens/ # UI Screens
+│ ├── screens/ # 🖥 UI Screens
 │ │ └── todolist.dart
-│ └── widgets/ # Reusable Widgets
+│ └── widgets/ # 🧩 Reusable Widgets
 │ └── taskcard.dart
 └── main.dart
+```
